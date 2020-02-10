@@ -1,0 +1,2 @@
+include ':app', ':imagevideoview'
+rootProject.name='ImageVideoViewSample'
