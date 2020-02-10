@@ -1,4 +1,4 @@
-package com.lakue.imagevideoview;
+package com.lakue.imagevideo;
 
 import android.content.Context;
 
