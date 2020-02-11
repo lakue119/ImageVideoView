@@ -3,8 +3,7 @@ ImageVideoView is a view that determines whether an image, gif, or video depends
 * Play the video smoothly using the ExoplayerView.
 * Use Glide to manage your images efficiently.
 * One view can distinguish images, gifs, and videos.
-[![Release](https://jitpack.io/v/lakue119/Repo.svg)]
-(https://jitpack.io/#lakue119/Repo)
+
 # Sample
 
 <div>
@@ -98,5 +97,6 @@ When using a video, the following code will also end the video when the view is 
 
 
 # Precautions
-If you enter a path and only get a black screen, you should check if the internet environment is set.
+If you enter a path and only get a black screen, you should check if the internet environment is set.  
+
 https://lakue.tistory.com/24
