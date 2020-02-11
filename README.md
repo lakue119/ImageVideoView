@@ -94,3 +94,8 @@ add following code in xml
     }
 ```
 When using a video, the following code will also end the video when the view is stopped or exited.
+
+
+# Precautions
+If you enter a path and only get a black screen, you should check if the internet environment is set.
+https://lakue.tistory.com/24
