@@ -26,6 +26,14 @@ Add Jitpack to your repositories in your build.gradle file
 Add the below to your dependencies, again in your gradle.build file
 <pre>
 <code>
+android {
+        ...
+        compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
 dependencies {
     //Distinguish Image from Video Adds an Image Video View Library
     implementation 'com.github.lakue119:imagevideoview:1.0.1'
