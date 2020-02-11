@@ -3,7 +3,8 @@ ImageVideoView is a view that determines whether an image, gif, or video depends
 * Play the video smoothly using the ExoplayerView.
 * Use Glide to manage your images efficiently.
 * One view can distinguish images, gifs, and videos.
-
+[![Release](https://jitpack.io/v/User/Repo.svg)]
+(https://jitpack.io/#User/Repo)
 # Sample
 
 <div>
